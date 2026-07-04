@@ -10,7 +10,7 @@
 - 地图工具：[gaode_map_mcp](https://github.com/ColtM1873/Gaode-Map-MCP)
 - 天气工具：
   - [彩云天气 MCP](https://github.com/caiyunapp/mcp-caiyun-weather)
-  - 聚合天气 MCP（需自行部署）
+  - 聚合天气 MCP
 - 联网搜索工具：[mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng)
 - 铁路票务工具：[mcp-server-12306](https://github.com/drfccv/mcp-server-12306)
 
@@ -40,7 +40,7 @@
 |---|---|---|---|
 | **高德地图 API** | 地理编码、路线规划、POI 搜索 | 云 API，无需部署 | [高德开放平台](https://lbs.amap.com/) |
 | **彩云天气 API** | 实时 / 逐小时 / 未来三天天气 | 云 API + 本地 MCP | [彩云天气](https://caiyunapp.com/) |
-| **聚合天气 API** | 补充天气数据 | 云 API + 自建 MCP | [聚合数据](https://www.juhe.cn/) |
+| **聚合天气 API** | 补充天气数据 | 云 MCP | [聚合数据](https://www.juhe.cn/) |
 | **12306 MCP Server** | 火车票查询、中转规划 | 本地或远程 HTTP MCP | [mcp-server-12306](https://github.com/drfccv/mcp-server-12306) |
 | **SearXNG MCP Server** | 联网搜索 | 本地或远程 HTTP MCP | [mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) |
 | **PostgreSQL** | 存储用户记忆（偏好、历史） | 本地或云数据库 | 自备 |
